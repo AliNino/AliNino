@@ -11,7 +11,7 @@
 
 <h2>Linkedin profile</h2>
  <a href="https://www.linkedin.com/in/ismat-samadov-42414b241/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="linkedin" width="150" height="150">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="linkedin" width="100" height="100">
 </body>
 </html>
 
